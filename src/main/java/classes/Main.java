@@ -50,7 +50,7 @@ public class Main {
         //main.initList();
         //main.jaxbObjectToXML();
         //main.marshal();
-        main.objsToXML();
+        //main.objsToXML();
         System.out.println(main.validaXML());
     }
 
